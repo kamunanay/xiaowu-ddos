@@ -1,7 +1,6 @@
 ## 📁 Struktur Proyek GitHub
 
-ddos-tool/
-├── ddos.js
+ddos-tool/├── ddos.js
 └── README.md
 
 # DDOS Tool (Educational Only)
