@@ -1,0 +1,17 @@
+{
+  "name": "ddos-panel",
+  "version": "1.0.0",
+  "description": "Educational DDoS Tool - Simulasi dan Bypass Cloudflare",
+  "main": "ddos.js",
+  "scripts": {
+    "start": "node ddos.js"
+  },
+  "author": "Ganz",
+  "license": "MIT",
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "ora": "^6.1.2",
+    "randomstring": "^1.3.0",
+    "request": "^2.88.2"
+  }
+}
