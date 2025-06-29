@@ -5,6 +5,7 @@
   "main": "ddos.js",
   "scripts": {
     "start": "node ddos.js"
+    "type": "module"
   },
   "author": "Ganz",
   "license": "MIT",
@@ -13,5 +14,6 @@
     "ora": "^6.1.2",
     "randomstring": "^1.3.0",
     "request": "^2.88.2"
+    "type": "module"
   }
 }
