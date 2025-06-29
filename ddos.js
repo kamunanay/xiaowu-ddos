@@ -1,3 +1,7 @@
+import readline from 'readline';
+import cloudscraper from 'cloudscraper';
+import request from 'request';
+import randomstring from 'randomstring';
 const cloudscraper = require('cloudscraper');
 const request = require('request');
 const randomstring = require('randomstring');
