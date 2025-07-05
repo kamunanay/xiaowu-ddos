@@ -1,15 +1,43 @@
-## 📁 Struktur Proyek GitHub
+<p align="center">
+  <img src="https://i.imgur.com/FWfUJFs.png" width="300" alt="XiaoWu Logo">
+</p>
 
-ddos-tool/├── ddos.js
-└── README.md
+<h1 align="center">🔥 XiaoWu-DDOS 🔥</h1>
 
-# DDOS Tool (Educational Only)
+<p align="center">
+  🖤 Next-Level DDoS Toolkit 🖤 <br>
+  <strong>Flood. Layer7. SYN. UDP. Random Payload.</strong><br>
+  <code>Full LOCKDOWN 汉字版 | Termux / Pterodactyl / VPS Ready</code>
+</p>
 
-⚠️ This script is for **educational purposes only**. Do not use it to attack any site without permission.
+---
 
-## Usage
+## ⚡ Features
+- ✅ **Flood Link SPAM** (method1.js)
+- ✅ **Layer7 HTTP Attack** (method2.js)
+- ✅ **TCP SYN Flood** (method3.js)
+- ✅ **UDP Flood** (method4.js)
+- ✅ **Random Payload Attack** (method5.js)
+- 🕵️‍♂️ **Full LOCKDOWN** – all source obfuscated 汉字 + Base64
+- 🌐 Cross-platform (Termux, Pterodactyl, Linux VPS, Windows Node.js)
 
+---
+
+## 🖤 Screenshot
+<p align="center">
+  <img src="https://i.imgur.com/buV1Od5.png" width="700" alt="XiaoWu-DDOS Menu">
+</p>
+
+---
+
+## 🚀 Installation
 ```bash
-pkg install nodejs -y
-npm install request cloudscraper randomstring
-node ddos.js http://example.com 60
+# Clone repository
+git clone https://github.com/username/XiaoWu-DDOS.git
+cd XiaoWu-DDOS
+
+# Install dependencies
+npm install
+
+# Run
+node menu.js
