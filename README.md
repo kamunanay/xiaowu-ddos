@@ -23,9 +23,9 @@
 
 ---
 
-## 🖤 Screenshot
+## Screenshot Results
 <p align="center">
-  <img src="https://i.imgur.com/buV1Od5.png" width="700" alt="XiaoWu-DDOS Menu">
+  <img src="https://i.imgur.com/4W4egiW.jpeg" width="700" alt="Result">
 </p>
 
 ---
