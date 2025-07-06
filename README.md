@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/T90FY1J" width="300" alt="Foto Menu">
+  <img src="https://imgur.com/gallery/tampilan-menu-ddos-f8XEF3D#3t8dQFE" width="300" alt="Foto Menu">
 </p>
 
 <h1 align="center">🔥 XiaoWu-DDOS 🔥</h1>
