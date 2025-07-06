@@ -1,4 +1,4 @@
-const 小吴颜色 = require("chalk");
+const 小吴颜色 = require('chalk').default;
 const 小吴输入 = require("readline");
 const 小吴执行 = require("child_process").exec;
 
