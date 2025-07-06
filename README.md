@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/FWfUJFs.png" width="300" alt="XiaoWu Logo">
+  <img src="https://imgur.com/a/VMUTWB5" width="300" alt="XiaoWu Logo">
 </p>
 
 <h1 align="center">🔥 XiaoWu-DDOS 🔥</h1>
