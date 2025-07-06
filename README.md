@@ -33,7 +33,7 @@
 ## 🚀 Installation
 ```bash
 # Clone repository
-git clone https://github.com/username/XiaoWu-DDOS.git
+git clone https://github.com/kamunanay/xiaowu-ddos.git
 cd XiaoWu-DDOS
 
 # Install dependencies
