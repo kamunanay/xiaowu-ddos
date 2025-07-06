@@ -22,7 +22,7 @@ function 小吴启动(小吴方法, 小吴名字) {
     });
 }
 
-const 小吴艺术 = 小吴颜色.greenBright(`
+const 小吴艺术 = 小吴颜色.green(`
 ddddddxxxxxxxxxkookxo,xooxxklloxddcdxkddccdddddddx
 dddddxxxxxxxxxxxxd:,:;;,l;,:;;cd:ccdldldodxxdxxxxx
 dddddxxxxddddddxdl''.;,:co;.....''....';:dxxxxxxkk
@@ -51,7 +51,7 @@ ccccccccc:'.',,,'..,,;;;;:coxkkkxl.. ..,..',...'',
 
 console.clear();
 console.log(小吴艺术);
-console.log(小吴颜色.cyanBright("\n🔥 Welcome to XiaoWu-DDOS 🔥"));
+console.log(小吴颜色.cyan("\n🔥 Welcome to XiaoWu-DDOS 🔥"));
 console.log(小吴颜色.green("1) Flood Link"));
 console.log(小吴颜色.green("2) DDOS Layer7"));
 console.log(小吴颜色.green("3) TCP SYN Flood"));
